@@ -80,7 +80,7 @@ class Devs2 extends StatelessWidget {
                 ),
                 SizedBox(height: 10.0),
                 Text(
-                  "Loasdasdrem ipsudfsdfsdfxt of e sdf sdf sdf  the \nprinting and typesetting industry.\nLoremA SJHDAS JHDKASJ HDKAJS HKDH KASJD KAJSD A LKDJ LASDJ LAKSDJ LASKJD LASKJD LASKJD LKASJD  ipsum has been the",
+                  "Trocando asd asd asd asd asd as dLoasdasdrem ipsudfsdfsdfxt of e sdf sdf sdf  the \nprinting and typesetting industry.\nLoremA SJHDAS JHDKASJ HDKAJS HKDH KASJD KAJSD A LKDJ LASDJ LAKSDJ LASKJD LASKJD LASKJD LKASJD  ipsum has been the",
                   textAlign: TextAlign.center,
                   style: TextStyle(color: Colors.grey.shade400, fontSize: 14.0),
                 ),

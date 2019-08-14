@@ -69,7 +69,7 @@ class Devs extends StatelessWidget {
                 ),
                 SizedBox(height: 10.0),
                 Text(
-                  "Loasdasdreming and typesetting industry.\nLorem ipsum has bad asd asd asd aaA PIPO DPLQWEM seen the",
+                  "Trocando Loasdasdreming and typesetting industry.\nLorem ipsum has bsdfj lskdfj slkdjf lsdkfj sldkjf lsdkj  alskdj laskdj alskjd lkjad asd asd asd aaA PIPO DPLQWEM seen the",
                   textAlign: TextAlign.center,
                   style: TextStyle(color: Colors.grey.shade400, fontSize: 14.0),
                 ),
